@@ -1,6 +1,6 @@
 {
   "name": "electron-args",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "cli helper for electron",
   "license": "MIT",
   "repository": "akameco/electron-args",
