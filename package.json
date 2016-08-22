@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "electron fixture.js",
-    "test": "xo && ava"
+    "test": "xo"
   },
   "files": [
     "index.js"
