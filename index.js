@@ -25,11 +25,13 @@ module.exports = (opts, minimistOpts) => {
 
 	const showHelp = code => {
 		console.log(help);
+		// eslint-disable-next-line unicorn/no-process-exit
 		process.exit(code || 0);
 	};
 
 	if (argv.version && opts.version !== false) {
 		console.log(typeof opts.version === 'string' ? opts.version : app.getVersion());
+		// eslint-disable-next-line unicorn/no-process-exit
 		process.exit(0);
 	}
 
