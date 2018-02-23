@@ -1,5 +1,7 @@
 # electron-args [![Build Status](https://travis-ci.org/akameco/electron-args.svg?branch=master)](https://travis-ci.org/akameco/electron-args)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/electron-args.svg)](https://greenkeeper.io/)
+
 > cli helper for electron
 
 
